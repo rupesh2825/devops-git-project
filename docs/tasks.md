@@ -1,4 +1,4 @@
-## Task 4 — Version Controlled DevOps Project
+## Task 3 — Version Controlled DevOps Project
 
 ### What Done:
 - Created GitHub repository
